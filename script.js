@@ -3,3 +3,7 @@ function niewiem(params) {
 
     return xd;
 }
+
+function test(params) {
+    console.log(params)
+}
